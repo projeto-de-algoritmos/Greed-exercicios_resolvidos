@@ -6,19 +6,19 @@ for _ in range (casos):
 
   total = 0
   items = 0
-  ans = []
+  v = []
 
-  for c in range (len(weights)):
-    if(weights[c] >= w/2 and weights[c] <= w):
-      ans = [c+1]
-      total = weights[c]
+  for i in range (len(weights)):
+    if(weights[i] >= w/2 and weights[i] <= w):
+      v = [i+1]
+      total = weights[i]
       items = 1
       break
     else:
-      if(weights[c] + total <= w):
-        total += weights[c]
+      if(weights[i] + total <= w):
+        total += weights[i]
         items += 1
-        ans.append(c+1)
+        v.append(i+1)
     if (total >= w/2):
       break
   
@@ -28,6 +28,6 @@ for _ in range (casos):
     print(items)
     for c in range(items):
       if(c == items - 1):
-        print(ans[c])
+        print(v[c])
       else:
-        print(ans[c], end=' ')
+        print(v[c], end=' ')

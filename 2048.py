@@ -4,6 +4,8 @@ def main():
   for i in range(n):
     q = int(input())
     v = list(map(int, input().split()))
+    v = list()
+
     v.sort(reverse=True)
     soma = 0
     final = False

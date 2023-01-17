@@ -11,24 +11,29 @@
 
 ## Sobre 
 Realização de exercícios associados ao conteúdo de algoritmos ambiciosos. 
-
-## Screenshots
+<br>
 ### Busyman
 [Link do problema](https://www.spoj.com/problems/BUSYMAN/)
 
-### Dança em pares
+### BerSU Ball
 [Link do problema](https://codeforces.com/problemset/problem/489/B)
+
+
+### 2048
+[Link do problema](https://codeforces.com/contest/1221/problem/A)
+
+### Knapsack
+[Link do problema](https://codeforces.com/problemset/problem/1446/A)
+
 
 ## Instalação 
 **Linguagem**: Python3<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
+Fora a linguagem python, não há necessidade de instalação de nenhum outro pacote.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Após a execução de um problema individual, utiliza-se as entradas fornecidas pelo problema correspondente no codeforces/spoj.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 

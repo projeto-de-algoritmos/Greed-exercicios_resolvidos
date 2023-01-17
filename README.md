@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 19/0054832  |  Arthur Talles de Sousa Cunha |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0121995  |  Herick de Carvalho Lima |
 
 ## Sobre 
 Realização de exercícios associados ao conteúdo de algoritmos ambiciosos. 
